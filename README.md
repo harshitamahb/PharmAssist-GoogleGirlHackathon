@@ -36,7 +36,10 @@ PharmAssist is an **AI-powered prescription management system** designed to simp
 - **Optical Character Recognition (OCR)**: Leverages **EasyOCR and DeepSeek Vision R1** to accurately extract and validate text from handwritten prescriptions.  
 - **QR-Based Ordering**: Patients can scan a **QR code, upload their prescription**, and place orders directly from their phones.  
 - **Automated Inventory & Order Management**: Tracks stock levels, streamlines order fulfillment, and prevents shortages or overstocking.  
-- **Pharmacist Dashboard**: Provides real-time insights into **sales, stock levels, and revenue analytics** for better decision-making.  
+- **Pharmacist Dashboard**: Provides real-time insights into **sales, stock levels, and revenue analytics** for better decision-making.
+
+   ![image](https://github.com/user-attachments/assets/9912f679-f72a-4b01-8fb4-5a8064ead5fc)
+
 
 ## **Technologies Used**  
 
