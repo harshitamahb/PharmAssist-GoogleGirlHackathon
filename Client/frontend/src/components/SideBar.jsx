@@ -2,12 +2,12 @@ import React, { useState, useEffect, useContext } from "react";
 import { MdClose, MdMenu, MdDelete } from "react-icons/md";
 import { AiOutlineGithub } from "react-icons/ai";
 import { useLocation, Link } from "react-router-dom";
-import { ChatContext } from "../context/chatContext";
+ 
 import bot from "./Untitled design-3.png";
 import ToggleTheme from "./ToggleTheme";
 import axios from "axios";
 const SideBar = (props) => {
-  const [, , clearChat] = useContext(ChatContext);
+   
   const { setThm, setOpen, open } = props;
   const location = useLocation();
   const [qrCodeUrl, setQrCodeUrl] = useState("");
@@ -23,9 +23,7 @@ const SideBar = (props) => {
     return () => window.removeEventListener("resize", handleResize);
   }, []);
 
-  function clear() {
-    clearChat();
-  }
+  
 
   async function generateQrCode() {
     try {
@@ -89,17 +87,7 @@ const SideBar = (props) => {
           {open && localStorage.getItem("name")}
         </div>
         <ul className="w-full menu rounded-box px-4 py-3">
-          {currentPath === "/bot" && (
-            <li>
-              <button
-                className="flex items-center gap-2 my-2 w-full py-3 rounded-md hover:bg-neutral-focus shadow-md"
-                onClick={clear}
-              >
-                <MdDelete size={20} />
-                <span className={`${!open && "hidden"}`}>Clear chat</span>
-              </button>
-            </li>
-          )}
+          
           {navItems.map((item) => (
             <li key={item.path}>
               <Link

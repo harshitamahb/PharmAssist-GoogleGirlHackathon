@@ -32,7 +32,7 @@ export default function UploadPrescription() {
     setIsLoading(true);
     try {
       const response = await axios.post(
-        "http://ef5f-34-147-80-53.ngrok-free.app/extract_medicines",
+        "http://b7e0-34-19-2-44.ngrok-free.app/extract_medicines",
         formData,
         {
           headers: {
