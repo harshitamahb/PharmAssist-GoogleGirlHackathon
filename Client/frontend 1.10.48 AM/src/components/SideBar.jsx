@@ -135,7 +135,7 @@ const SideBar = (props) => {
               className="flex items-center gap-2 w-full py-2 px-2 hover:bg-neutral-focus rounded-md shadow-md"
               rel="noreferrer"
               target="_blank"
-              href="https://github.com/mysticalmanav/HealthCare"
+              href="https://github.com/harshitamahb/PharmAssist-GoogleGirlHackathon/"
             >
               <AiOutlineGithub size={20} />
               <span className={`${!open && "hidden"}`}>Github</span>
