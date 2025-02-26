@@ -4,7 +4,7 @@
 #### Project name : PharmAssist
 
 ## **Overview**
-This project is being submitted as part of the Ideathon round of the Google Girl Hackathon 2025. PharmAssist is a prototype designed to showcase how AI can revolutionize pharmacy workflows by automating prescription processing, inventory management, and order fulfillment.
+This project is being submitted as part of the Ideathon round of the **Google Girl Hackathon 2025**. PharmAssist is a prototype designed to showcase how AI can revolutionize pharmacy workflows by automating prescription processing, inventory management, and order fulfillment.
 
 
 ## **Problem Statement**  
