@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ac02eee0-2c25-4621-9e37-96395b4240e5)# **PharmAssist**  
+#**PharmAssist**  
 
 #### Participant name: Harshita Mahbubani
 #### Project name : PharmAssist
