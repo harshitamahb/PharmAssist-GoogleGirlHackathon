@@ -1,6 +1,6 @@
-## Team name : AG21
-## Team leader : Gaurav Kumar
-## Project name : Clear Horizons
+### Participant name: Harshita Mahbubani
+### Project name : PharmAssist
+
 ## Requirements
 
 ### Frontend
