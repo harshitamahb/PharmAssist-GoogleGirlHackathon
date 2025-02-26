@@ -1,7 +1,7 @@
 # **PharmAssist**  
 
-### Participant name: Harshita Mahbubani
-### Project name : PharmAssist
+#### Participant name: Harshita Mahbubani
+#### Project name : PharmAssist
 
 ## **Problem Statement**  
 
