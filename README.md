@@ -16,9 +16,12 @@ This project is being submitted as part of the Ideathon round of the **Google Gi
 
 #### 4. Prescription upload page
 ![image](https://github.com/user-attachments/assets/78fc50f1-fd08-4d42-84d4-df52a07bc222)
-#### 5. Order management for pharmacist
+#### 5. Order generation from prescription
+![image](https://github.com/user-attachments/assets/7091f824-a6dc-4d2f-aa8d-417efd9ae459)
+
+#### 6. Order management for pharmacist
 ![image](https://github.com/user-attachments/assets/acd5c047-00e3-437d-babe-e37bb404a3cd)
-#### 6. Inventory management for pharmacist
+#### 7. Inventory management for pharmacist
 ![image](https://github.com/user-attachments/assets/bfa27fa1-bfda-4f3f-8475-9bad024b0bfd)
 
 
