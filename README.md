@@ -7,10 +7,18 @@
 This project is being submitted as part of the Ideathon round of the **Google Girl Hackathon 2025**. PharmAssist is a prototype designed to showcase how AI can revolutionize pharmacy workflows by automating prescription processing, inventory management, and order fulfillment.
 
 ## **Demo Pages**
+#### 1. Landing page
 ![image](https://github.com/user-attachments/assets/b17cadbb-6250-4200-a820-913745cc69d5)
+#### 2. Sales & Analytics Dashboard
 ![image](https://github.com/user-attachments/assets/e2323e74-7d35-4fdc-965b-ba1478cc4792)
+#### 3. QR Generation to place order
+![image](https://github.com/user-attachments/assets/d4b017e0-073e-4eac-bf9d-cc123ca1a634)
+
+#### 4. Prescription upload page
 ![image](https://github.com/user-attachments/assets/78fc50f1-fd08-4d42-84d4-df52a07bc222)
+#### 5. Inventory management for pharmacist
 ![image](https://github.com/user-attachments/assets/acd5c047-00e3-437d-babe-e37bb404a3cd)
+#### 6. Order management for pharmacist
 ![image](https://github.com/user-attachments/assets/bfa27fa1-bfda-4f3f-8475-9bad024b0bfd)
 ![image](https://github.com/user-attachments/assets/d4b017e0-073e-4eac-bf9d-cc123ca1a634)
 
