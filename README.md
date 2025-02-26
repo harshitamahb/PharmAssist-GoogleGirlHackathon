@@ -1,5 +1,31 @@
+# **PharmAssist**  
+
 ### Participant name: Harshita Mahbubani
 ### Project name : PharmAssist
+
+## **Problem Statement**  
+
+Pharmacists handle a high volume of prescriptions daily, often dealing with handwritten notes, manual order processing, and inventory management challenges. These inefficiencies can lead to errors, delays, and stock mismanagement, impacting both pharmacists and patients. **PharmAssist** aims to automate these processes using AI and machine learning, ensuring accuracy, efficiency, and seamless pharmacy operations.  
+
+## **Solution**  
+
+PharmAssist is an **AI-powered prescription management system** designed to simplify pharmacy workflows:  
+
+- **Optical Character Recognition (OCR)**: Leverages **EasyOCR and DeepSeek Vision R1** to accurately extract and validate text from handwritten prescriptions.  
+- **QR-Based Ordering**: Patients can scan a **QR code, upload their prescription**, and place orders directly from their phones.  
+- **Automated Inventory & Order Management**: Tracks stock levels, streamlines order fulfillment, and prevents shortages or overstocking.  
+- **Pharmacist Dashboard**: Provides real-time insights into **sales, stock levels, and revenue analytics** for better decision-making.  
+
+## **Technologies Used**  
+
+- **AI & OCR**: EasyOCR, DeepSeek Vision R1 for handwriting recognition.  
+- **Backend**: Node.js, Express.js for API development.  
+- **Frontend**: React.js for an interactive and user-friendly interface.  
+- **Database**: MongoDB for efficient data storage and retrieval.  
+- **Deployment**: Hosted on **AWS**, with secure API tunneling via **Ngrok** for remote accessibility.  
+- **Security**: Encrypted prescription data, authentication mechanisms, and compliance with industry standards.  
+
+By automating **prescription processing, inventory tracking, and revenue management**, **PharmAssist enhances efficiency, reduces errors, and improves pharmacy operations**, ultimately benefiting both pharmacists and patients.  
 
 ## Requirements
 
@@ -11,7 +37,7 @@
 - Python 3.8 or higher
 - Flask
 
-## Getting Started
+## Getting Started- How to run this project on your local machine
 
 ### Frontend Setup
 
